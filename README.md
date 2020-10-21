@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vat0599&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=vat0599&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=vat0599&color=brightgreen&style=plastic)
 
 ### Trying to learn new things everyday :)
 <!--
