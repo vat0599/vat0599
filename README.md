@@ -1,12 +1,12 @@
 # Hi there 👋
 
 # Starter pack about me:
-- 🔭 I’m currently working on integrated Deep Learning and Computer Vision. Also a hard core Pythonista!!
-- 🌱 I’m currently learning Deep Reinforcement Learning.
-- 👯 I’m looking to collaborate on the broad field of Artificial Intelligence.
-- 🤔 I’m eager to help in the field of ML, DL, CV, NLP or even Python in general.
-- ⚡ Fun fact: New to OpenSouce but really excited to add value to the community.
-- 📫 How to reach me: steevesrivatsav@gmail.com
+- I’m currently working on integrated Deep Learning and Computer Vision. Also a hard core Pythonista!!
+- I’m currently learning Deep Reinforcement Learning.
+- I’m looking to collaborate on the broad field of Artificial Intelligence.
+- I’m eager to help in the field of ML, DL, CV, NLP or even Python in general.
+- Fun fact: New to OpenSouce but really excited to add value to the community.
+- How to reach me: steevesrivatsav@gmail.com
 
 # My GitHub Stats
 
