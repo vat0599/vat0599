@@ -10,9 +10,9 @@
 
 # My GitHub Stats
 
-[![Srivatsav's github stats](https://github-readme-stats.vercel.app/api?username=vat0599&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Srivatsav's github stats](https://github-readme-stats.vercel.app/api?username=vat0599&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vat0599&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vat0599&layout=compact)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vat0599&color=brightgreen&style=plastic)
 
