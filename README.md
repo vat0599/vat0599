@@ -1,6 +1,7 @@
 # Hi there 👋
 
-# Starter pack about me:
+# Starter pack about me
+
 - I’m currently working on integrated Deep Learning and Computer Vision. Also a hard core Pythonista!!
 - I’m currently learning Deep Reinforcement Learning.
 - I’m looking to collaborate on the broad field of Artificial Intelligence.
