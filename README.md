@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Srivatsav
 
-# Starter pack about me
+## Starter pack about me
 
 - I’m currently working on integrated Deep Learning and Computer Vision. Also a hard core Pythonista!!
 - I’m currently learning Deep Reinforcement Learning.
@@ -9,7 +9,7 @@
 - Fun fact: New to OpenSouce but really excited to add value to the community.
 - How to reach me: Drop a mail to steevesrivatsav@gmail.com
 
-# My GitHub Stats
+## My GitHub Stats
 
 ![Srivatsav's github stats](https://github-readme-stats.vercel.app/api?username=vat0599&theme=tokyonight)
 
