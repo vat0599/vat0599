@@ -11,7 +11,7 @@
 
 ## My GitHub Stats
 
-![Srivatsav's github stats](https://github-readme-stats.vercel.app/api?username=vat0599&theme=tokyonight)
+![Srivatsav's github stats](https://github-readme-stats.vercel.app/api?username=vat0599&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vat0599&langs_count=9&layout=compact)
 
