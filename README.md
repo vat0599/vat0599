@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Srivatsav
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Srivatsav
 
 ## Starter pack about me
 
