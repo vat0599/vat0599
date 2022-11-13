@@ -7,7 +7,7 @@
 - I’m looking to collaborate on the broad field of Artificial Intelligence.
 - I’m eager to help in the field of ML, DL, CV, NLP or even Python in general.
 - Fun fact: New to OpenSouce but really excited to add value to the community.
-- How to reach me: Drop a mail to steevesrivatsav@gmail.com
+- How to reach me: Drop an email to steevesrivatsav@gmail.com
 
 ## My GitHub Stats
 
